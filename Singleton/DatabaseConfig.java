@@ -1,3 +1,8 @@
+/*
+* The Singleton pattern ensures that a class has only one instance and provides a global point of access to it.
+* This is perfect for things like database connections or logger classes.
+* */
+
 package Singleton;
 
 public class DatabaseConfig {

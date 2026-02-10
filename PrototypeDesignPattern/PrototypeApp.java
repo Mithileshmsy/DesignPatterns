@@ -1,3 +1,9 @@
+//The Prototype Pattern is a Creational pattern used
+// when creating a new object from scratch is
+// costly, complex, or time-consuming.
+// Instead of building a new instance,
+// you copy (clone) an existing one and modify it if necessary.
+
 package PrototypeDesignPattern;
 
 import java.util.List;
